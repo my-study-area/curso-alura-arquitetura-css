@@ -13,3 +13,6 @@ Curso de Arquitetura CSS: Descomplicando os problemas
 - No diretório `assets` ficam os arquivos estáticos
 - O arquivo `normalize.css` é o responsável por resetar estilos do nosso navegador.
 - o arquivo `reset.css` é referente aos estilos que desejamos que sejam padrão em todos os navegadores, mas que não estão presentes no `normalize.css`. Por exemplo, usaremos na nossa aplicação a fonte padrão **Roboto**.
+
+### Aula 01.04 - Criando o cabeçalho
+- Normalmente a construção do site segue a sequência de cima para baixo, por exemplo, cabeçalho, corpo e por último o rodapé.
