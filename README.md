@@ -16,3 +16,5 @@ Curso de Arquitetura CSS: Descomplicando os problemas
 
 ### Aula 01.04 - Criando o cabeçalho
 - Normalmente a construção do site segue a sequência de cima para baixo, por exemplo, cabeçalho, corpo e por último o rodapé.
+
+### Aula 01.05 - Estilizando o cabeçalho
