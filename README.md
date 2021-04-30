@@ -18,6 +18,8 @@ Curso de Arquitetura CSS: Descomplicando os problemas
 - Normalmente a construção do site segue a sequência de cima para baixo, por exemplo, cabeçalho, corpo e por último o rodapé.
 
 ### Aula 01.05 - Estilizando o cabeçalho
+
+### Aula 01.06 - Simplificando os seletores
 - Devemos utilizar classes css no lugar de seletores HTML para estilizar os elementos da página.
 - É uma boa prática separarmos cada "pedaço" do nosso site em arquivos diferentes, por exemplo, separando o arquivo css em: `cabecalho.css, menu/menu-lista.css, menu/menu-item.css e menu/menu-link.css`.
 - A ideia de criar um arquivo CSS para cada elemento da página tem um nome: Atomic Design, que consiste, basicamente, em um modelo de organizar os componentes, pastas e a estrutura do nosso CSS a partir do princípio de átomos, onde um átomo é toda tag HTML.
