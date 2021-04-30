@@ -43,3 +43,5 @@ Curso de Arquitetura CSS: Descomplicando os problemas
 
 ### Aula 02.02 - Criando o banner e sobre
 - `BEM`: _Block_, _Element_ e _Modifier_, ou seja, "_bloco, elemento e modificador_", os três pilares da metodologia BEM.
+
+### Aula 02.03 - Estilizando o banner
