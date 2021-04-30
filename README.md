@@ -28,3 +28,5 @@ Curso de Arquitetura CSS: Descomplicando os problemas
   - `Organismo`: um conjunto de Moléculas.
   - `Template`: um conjunto de Organismos.
 
+### Aula 01.07 - Criando seletores simples
+- Para criar um seletor simples, que seja possível sobrescrever e fácil de entender devemos usar classes.Ex: `.titulo {}`
