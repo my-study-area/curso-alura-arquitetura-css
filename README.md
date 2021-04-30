@@ -37,3 +37,9 @@ Curso de Arquitetura CSS: Descomplicando os problemas
 - a utilizar seletores CSS mais simples;
 - a organizar a estruturar os arquivos css do projeto;
 - Metodologia Atomic Design.
+
+## Módulo 02 - Estilização de Banner e Sobre
+### Aula 02.01 - Projeto da aula anterior
+
+### Aula 02.02 - Criando o banner e sobre
+- `BEM`: _Block_, _Element_ e _Modifier_, ou seja, "_bloco, elemento e modificador_", os três pilares da metodologia BEM.
