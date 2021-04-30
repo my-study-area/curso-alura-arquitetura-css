@@ -30,3 +30,10 @@ Curso de Arquitetura CSS: Descomplicando os problemas
 
 ### Aula 01.07 - Criando seletores simples
 - Para criar um seletor simples, que seja possível sobrescrever e fácil de entender devemos usar classes.Ex: `.titulo {}`
+
+### Aula 01.08 - Faça como eu fiz na aula
+
+### Aula 01.09 - O que aprendemos?
+- a utilizar seletores CSS mais simples;
+- a organizar a estruturar os arquivos css do projeto;
+- Metodologia Atomic Design.
