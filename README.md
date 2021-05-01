@@ -45,3 +45,8 @@ Curso de Arquitetura CSS: Descomplicando os problemas
 - `BEM`: _Block_, _Element_ e _Modifier_, ou seja, "_bloco, elemento e modificador_", os três pilares da metodologia BEM.
 
 ### Aula 02.03 - Estilizando o banner
+
+### Aula 02.04 - Para saber mais
+
+### Aula 02.05 - Estilizando o sobre
+- Não é necessário aplicar a metodologia `BEM` para nomenclatura de arquivos. Ex: uma classe chamada `.sobre__titulo` não precisar estar inserida num arquivo chamado `sobre__titulo.css`. Pode-se utilizar o nome de arquivo `sobre-titulo.css`.
