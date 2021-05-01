@@ -54,3 +54,9 @@ Curso de Arquitetura CSS: Descomplicando os problemas
 ### Aula 02.06 - Metodologia BEM
 De acordo com a metodologia BEM, como podemos nomear a classe de um elemento cabecalho, que é filho de um painel?  
 `R:` `.painel__cabecalho {}`, estamos criando um bloco chamado **painel** e separando seu filho **cabecalho** com dois underlines.
+
+### Aula 02.07 - Faça como eu fiz na aula
+
+### Aula 02.08 - O que aprendemos?
+- Um padrão para nomear as classes de CSS;
+- Conhecemos a metodologia BEM.
