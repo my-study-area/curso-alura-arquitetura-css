@@ -50,3 +50,7 @@ Curso de Arquitetura CSS: Descomplicando os problemas
 
 ### Aula 02.05 - Estilizando o sobre
 - Não é necessário aplicar a metodologia `BEM` para nomenclatura de arquivos. Ex: uma classe chamada `.sobre__titulo` não precisar estar inserida num arquivo chamado `sobre__titulo.css`. Pode-se utilizar o nome de arquivo `sobre-titulo.css`.
+
+### Aula 02.06 - Metodologia BEM
+De acordo com a metodologia BEM, como podemos nomear a classe de um elemento cabecalho, que é filho de um painel?  
+`R:` `.painel__cabecalho {}`, estamos criando um bloco chamado **painel** e separando seu filho **cabecalho** com dois underlines.
