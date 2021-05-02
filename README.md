@@ -60,3 +60,8 @@ De acordo com a metodologia BEM, como podemos nomear a classe de um elemento cab
 ### Aula 02.08 - O que aprendemos?
 - Um padrão para nomear as classes de CSS;
 - Conhecemos a metodologia BEM.
+
+## Módulo 03 - Estilização das Receitas
+### Aula 03.01 - Projeto da aula anterior
+
+### Aula 03.02 - Preparando o ambiente
