@@ -67,3 +67,5 @@ De acordo com a metodologia BEM, como podemos nomear a classe de um elemento cab
 ### Aula 03.02 - Preparando o ambiente
 
 ### Aula 03.03 - Estruturando as receitas
+
+### Aula 03.04 - Estilizando as receitas
