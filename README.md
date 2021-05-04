@@ -69,3 +69,13 @@ De acordo com a metodologia BEM, como podemos nomear a classe de um elemento cab
 ### Aula 03.03 - Estruturando as receitas
 
 ### Aula 03.04 - Estilizando as receitas
+
+### Aula 03.05 - Organizando o CSS do painel
+Pensando em um componente de painel com cabeçalho, título, descrição e botão, como podemos organizar esses arquivos?  
+`R:` Para melhor organização e manutenção do projetos CSS, estudamos que podemos utilizar a metodologia Atomic Design, que consiste na criação de um arquivo .css para cada elemento dos nossos componentes.
+```
+painel/cabecalho.css
+painel/titulo.css
+painel/descricao.css
+painel/botao.css
+```
