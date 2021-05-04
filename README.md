@@ -86,3 +86,8 @@ painel/botao.css
 - Organização e estrutura de arquivos .css;
 - Separação de responsabilidades;
 - Criar e manter arquivos menores.
+
+## Módulo 04 - Estilização do Quem Somos
+### Aula 04.01 - Projeto da aula anterior
+
+### Aula 04.02 - Preparando o ambiente
