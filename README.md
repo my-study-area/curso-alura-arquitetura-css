@@ -79,3 +79,10 @@ painel/titulo.css
 painel/descricao.css
 painel/botao.css
 ```
+
+### Aula 03.06 - Faça como eu fiz na aula
+
+### Aula 03.07 - O que aprendemos?
+- Organização e estrutura de arquivos .css;
+- Separação de responsabilidades;
+- Criar e manter arquivos menores.
