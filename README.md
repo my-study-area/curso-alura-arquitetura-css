@@ -91,3 +91,8 @@ painel/botao.css
 ### Aula 04.01 - Projeto da aula anterior
 
 ### Aula 04.02 - Preparando o ambiente
+
+### Aula 04.03 - Estruturando o quem somos
+
+### Aula 04.04 - Estilizando quem somos
+- Para nomearmos arquivos de classes com nomes compostos, como por exemplo `quem-somos`, devemos utilizar o padrão `camel case` ficando da seguinte forma: `quemSomos.css`, `quemSomos-titulo.css` e `quemSomos-descricao.css`.
