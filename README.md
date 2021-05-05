@@ -112,3 +112,10 @@ painel/botao.css
 
 Onde podemos importar e referenciar nossas imagens?  
 `R:` Podemos importá-las no CSS e atribuir o estilo à uma classe e por meio da classe mostrar as imagens.Por tratar de imagens ilustrativas, sabemos que os estilos devem estar em nosso CSS.
+
+### Aula 04.08 - Faça como eu fiz na aula
+
+### Aula 04.09 - O que aprendemos?
+- Imagens ilustrativas devem estar referenciadas em nossos arquivos .css
+- Boas práticas com importação de imagens;
+- A manter as estilizações nos arquivos de estilo.
