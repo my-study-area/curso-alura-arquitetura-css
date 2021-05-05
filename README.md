@@ -98,3 +98,9 @@ painel/botao.css
 - Para nomearmos arquivos de classes com nomes compostos, como por exemplo `quem-somos`, devemos utilizar o padrão `camel case` ficando da seguinte forma: `quemSomos.css`, `quemSomos-titulo.css` e `quemSomos-descricao.css`.
 
 ### Aula 04.05 - Estilizando as pessoas
+
+### Aula 04.06 - Boas práticas com imagens
+- É uma boa prática mantermos as propriedades em ordem alfabética.
+- É interessante usarmos imagens ilustrativas no HTML. As imagens das receitas têm relevância e devem ser mantidas no HTML, mas o banner é somente uma ilustração. Sendo assim, vamos substituí-lo por uma `<div>`.
+- A propriedade `background: url('../../img/banner.jpg') no-repeat center / cover;` substitui as propriedades   `background-image: url('../../img/banner.jpg');`,
+`background-repeat: no-repeat;`, `background-position: center;` e `background-size: cover;`.
