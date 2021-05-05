@@ -104,3 +104,11 @@ painel/botao.css
 - É interessante usarmos imagens ilustrativas no HTML. As imagens das receitas têm relevância e devem ser mantidas no HTML, mas o banner é somente uma ilustração. Sendo assim, vamos substituí-lo por uma `<div>`.
 - A propriedade `background: url('../../img/banner.jpg') no-repeat center / cover;` substitui as propriedades   `background-image: url('../../img/banner.jpg');`,
 `background-repeat: no-repeat;`, `background-position: center;` e `background-size: cover;`.
+
+### Aula 04.07 - Referenciando imagens
+- Algumas vezes, podemos ter dúvidas sobre o que deve estar em CSS e o que deve estar em HTML. Talvez, a mais comum seja sobre imagens: devemos referenciá-las em CSS ou diretamente no HTML?
+
+- Um arquivo CSS é responsável por estilização e o HTML é responsável por informação. Ou seja, no primeiro definimos "como" e no segundo "o que" será visualizado.
+
+Onde podemos importar e referenciar nossas imagens?  
+`R:` Podemos importá-las no CSS e atribuir o estilo à uma classe e por meio da classe mostrar as imagens.Por tratar de imagens ilustrativas, sabemos que os estilos devem estar em nosso CSS.
