@@ -119,3 +119,8 @@ Onde podemos importar e referenciar nossas imagens?
 - Imagens ilustrativas devem estar referenciadas em nossos arquivos .css
 - Boas práticas com importação de imagens;
 - A manter as estilizações nos arquivos de estilo.
+
+## Módulo 05 - Estilização do Rodapé e Responsividade
+### Aula 05.01 - Projeto da aula anterior
+
+### Aula 05.02 - Criando o rodapé
