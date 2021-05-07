@@ -124,3 +124,14 @@ Onde podemos importar e referenciar nossas imagens?
 ### Aula 05.01 - Projeto da aula anterior
 
 ### Aula 05.02 - Criando o rodapé
+
+### Aula 05.03 - Deixando o site responsivo
+
+### Aula 05.04 - Finalizando a responsividade
+
+### Aula 05.05 - Site responsivo
+Muitas vezes, focamos em criar um site para pessoas que utilizam computadores e acabamos nos esquecendo das que usam celulares ou tablets. Com isso, nossos sites podem quebrar ou ficar ruim para utilização em pequenos dispositivos.
+
+Como podemos resolver esse problema?
+
+`R:` Tornar o site responsivo, de forma que se adapte aos diferentes tamanhos de tela.
