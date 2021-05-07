@@ -135,3 +135,11 @@ Muitas vezes, focamos em criar um site para pessoas que utilizam computadores e 
 Como podemos resolver esse problema?
 
 `R:` Tornar o site responsivo, de forma que se adapte aos diferentes tamanhos de tela.
+
+### Aula 05.06 - Faça como eu fiz na aula
+
+### Aula 05.07 - Conclusão
+
+### Aula 05.08 - O que aprendemos?
+- Tornar um site responsivo;
+- Como configurar a adaptação do site a diferentes tamanhos de tela.
